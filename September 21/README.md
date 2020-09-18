@@ -36,10 +36,10 @@ covered the supports with carboard and added parts of coke can as decoration and
 
 ![](pic6.jpg)
 
-![](pic7.jpg)
+![](pic 7.jpg)
 
 added spare parts form a model kit to make it look cool
 
-![](pic8.jpg)
+![](pic 8.jpg)
 
 just a dramatic shot of the tank with more soldiers
