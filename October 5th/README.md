@@ -9,6 +9,8 @@ The robot will the tank made eariler in the class. the robot has two DC motors t
 
 ![](pic1.jpg)
 
+Redboard is attached to the Qwiic motor. Which is connected to the DC motors, the battries and The Qwiic button. the Qwiic button is connected to the speaker Qwiic that has the SD card which is in the end connected to the Hamburger
+
 #### Intended Assembly
 
 ![](pic2.jpg)
@@ -21,7 +23,7 @@ The robot will the tank made eariler in the class. the robot has two DC motors t
 
 #### Video
 
-There is a mov file in the folder that will show the final working result
+There is a file in the folder that will show the final working result Final.mp4
 
 
 #### Problems 
