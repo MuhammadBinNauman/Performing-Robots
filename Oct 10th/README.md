@@ -8,10 +8,10 @@ The robot will the tank made eariler in the class. the robot has two DC motors t
 ##### OLED Visuals 
 
 ![](pic1.jpg)
-![](pic1.jpg)
-![](pic1.jpg)
-![](pic1.jpg)
-
+![](pic2.jpg)
+![](pic3.jpg)
+![](pic4.jpg)
+![](pic5.jpg)
 
 ##### Video
 
