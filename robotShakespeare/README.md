@@ -49,6 +49,12 @@ windmill made out if cardboard and LED strip reel. plastic figures and plstic bu
 
 same as other plstic models
 
+##### Movements
+the robot will spin 180 degrees and move back to its position.
+the robot will then move forward. 
+the robot will abruptly move and stop.
+the robot will then shuffle
+the robot will move right and left abruptly
 
 #### Movie 
 
