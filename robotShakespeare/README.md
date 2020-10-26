@@ -49,6 +49,11 @@ windmill made out if cardboard and LED strip reel. plastic figures and plstic bu
 
 same as other plstic models
 
+![](pic6.jpg)
+
+The other performer (sort of) with a sword!!!
+laertes the carboard box 
+
 ##### Movements
 the robot will spin 180 degrees and move back to its position.
 the robot will then move forward. 
