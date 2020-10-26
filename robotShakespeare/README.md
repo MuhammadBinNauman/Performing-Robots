@@ -53,3 +53,11 @@ same as other plstic models
 #### Movie 
 
 https://drive.google.com/file/d/1UjJ5ab45gEA_fOPtKofE3pCAZZgILYsL/view?usp=sharing
+
+##### Problems
+
+Robots can perform general movements not precise movements so many takes had to be taken to make each scene.
+
+There is no good text to speech software or website that is free
+
+I am bad at making good angels for recording.
