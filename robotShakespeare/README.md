@@ -29,7 +29,7 @@ using knives as swords
 making other actors using carboard
 ##### Photos
 
-![](pic1.jpg)
+![](pic1.png)
 
 The prop used to display the swords for the play
 
