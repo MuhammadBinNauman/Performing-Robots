@@ -16,3 +16,8 @@ same source as above the animation will be of a soldier cheering
 ![](sprite6.jpg)
 
 the last sprite will be a drawing. the drawing will be just be a sort of loading sign
+
+
+#### Source:
+2d sprites from : METAL SLUG 
+Downloaded from: https://www.spriters-resource.com/neo_geo_ngcd/ms3/
