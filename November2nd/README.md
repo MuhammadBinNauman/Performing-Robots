@@ -8,7 +8,7 @@ I decided to use sprites from 2d pixel art videogames this will be a simple tank
 
 ![](sprite2.png)
 
-same source as above the animation will be of a soldier runinng 
+same source as above the animation will be of a soldier cheering 
 
 ![](sprite6.jpg)
 
