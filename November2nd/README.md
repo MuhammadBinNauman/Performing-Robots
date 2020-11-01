@@ -18,6 +18,10 @@ same source as above the animation will be of a soldier cheering
 the last sprite will be a drawing. the drawing will be just be a sort of loading sign
 
 
+#### Problems 
+
+Ran out of space for the soldier sprite
+
 #### Source:
 2d sprites from : METAL SLUG 
 
