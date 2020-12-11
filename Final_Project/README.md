@@ -42,32 +42,32 @@ One of the main aspects of the play is the massage of time and the love and care
 
 #### Props and costumes 
 to show case the progression of time of the key aspects that I focused on was the robots changing costumes every scene. another way to show the passage of time was to change the top of the robot from brown to white as the scenes progressed. To show the love and care between the couple several objects were identified that had the most impact in the song and were made into props.
-![](pic4.png)
+![](pic4.jpg)
 
 The windmill prop previously used for the midterm was resued as the painting of the house on top of the waterfall.
 
-![](pic5.png)
+![](pic5.jpg)
 
 The seats were a very core aspect in conveying the relation between the couple and hence used in the respective scenes of the song. the props were also reused as the give more virtical height to the windmill
 
-![](pic6.png)
+![](pic6.jpg)
 
 The mailbox was also used as a important role in one of the scenes where both the robots would interact with. the stool was used to give more vertical height and help convey the scenes better 
 
-![](pic7.png)
+![](pic7.jpg)
 
 The car was the old robot being reused to fill in the for the actual scene where the car breaks down. The ballon stand was used in two scenes where the robot would have the interaction with it 
 
-![](pic8.png)
+![](pic8.jpg)
 
 The outfits of the robot where the main prop that was used for all scenes and helped in conveying the progress of time from scene to scene
 
-![](pic11.png)
+![](pic11.jpg)
 
 The plastic models were used as the crowd in the wedding scene. 
 the one on the right was more dynamic in pose so it better represented its crowd while the other was more static and help represent its crowd
 
-![](pic12.png)
+![](pic12.jpg)
 
 The green screen was essential in making the entire performance come to life
 
