@@ -71,3 +71,34 @@ the one on the right was more dynamic in pose so it better represented its crowd
 
 The green screen was essential in making the entire performance come to life
 
+#### The Performence
+
+The performance was a one to one of the source material. whenever possible the same movements and emotions were shown and the time where is was not possible different similar movements where made
+
+##### The Robots 
+
+![](pic1.png)
+
+The robots was made as modular as possible. the head came off so that the redboard can be easily uploaded with the new scene code. The arms are fully rotatable so that they can be positioned according to the scene.
+
+![](pic2.png)
+
+![](pic3.png)
+
+The button was put at the side for easy access for the movments to be initated from
+
+![](pic9.png)
+
+The other charecter was similarly made but lacking in electronics
+
+![](pic10.png)
+
+
+
+#### Problems and challenges
+The main challenge was time mamagement the coding, recording and editing of the performence was time consuming 
+The other challenge was getting the robot to move the way I wanted it to since the motors were imprecise it took some time to get the right code down
+
+The Problems that were faced was with the green screen being very inconsistent from scene to scene due to lighting 
+The other problem was the OLED having dead pixels all of the sudden in the middle of the screen, this caused some animations to be changed 
+The last was finding the right surface for the robot to have the least friction in. the table was a good solution to that.
