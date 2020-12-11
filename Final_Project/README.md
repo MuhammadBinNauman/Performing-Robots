@@ -77,21 +77,21 @@ The performance was a one to one of the source material. whenever possible the s
 
 ##### The Robots 
 
-![](pic1.png)
+![](pic1.jpg)
 
 The robots was made as modular as possible. the head came off so that the redboard can be easily uploaded with the new scene code. The arms are fully rotatable so that they can be positioned according to the scene.
 
-![](pic2.png)
+![](pic2.jpg)
 
-![](pic3.png)
+![](pic3.jpg)
 
 The button was put at the side for easy access for the movments to be initated from
 
-![](pic9.png)
+![](pic9.jpg)
 
 The other charecter was similarly made but lacking in electronics
 
-![](pic10.png)
+![](pic10.jpg)
 
 
 
