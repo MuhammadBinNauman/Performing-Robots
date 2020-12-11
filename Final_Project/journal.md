@@ -1,9 +1,7 @@
+## Pre-Showcase
+
 ### Songs Purposed
-
-confused on which one to pick 
-
-1. Mulan: I'll Make a Man Out of You
-2. Up: Married Life
+1. Up: Married Life
 
 #### Charecters
 
@@ -34,3 +32,41 @@ The song will determine the pace of the performence. the robots will try to mimi
 The robots will have multiple props attached to them to better enact the scenes in the song. 
 The robots will also do actions that give hints of more emotional and human like connection to the performence.
 The robots will perform a varity of small and fast or slow movements to better mimic the small but impactful moments of the song
+
+
+## After Showcase
+The play that was chosen at the end was UP(Married Life) from pixar. The play was about the life of a married couple up until the passing of the wife. 
+
+#### Core Concepts
+One of the main aspects of the play is the massage of time and the love and care of the couple.
+
+#### Props and costumes 
+to show case the progression of time of the key aspects that I focused on was the robots changing costumes every scene. another way to show the passage of time was to change the top of the robot from brown to white as the scenes progressed. To show the love and care between the couple several objects were identified that had the most impact in the song and were made into props.
+![](pic4.png)
+
+The windmill prop previously used for the midterm was resued as the painting of the house on top of the waterfall.
+
+![](pic5.png)
+
+The seats were a very core aspect in conveying the relation between the couple and hence used in the respective scenes of the song. the props were also reused as the give more virtical height to the windmill
+
+![](pic6.png)
+
+The mailbox was also used as a important role in one of the scenes where both the robots would interact with. the stool was used to give more vertical height and help convey the scenes better 
+
+![](pic7.png)
+
+The car was the old robot being reused to fill in the for the actual scene where the car breaks down. The ballon stand was used in two scenes where the robot would have the interaction with it 
+
+![](pic8.png)
+
+The outfits of the robot where the main prop that was used for all scenes and helped in conveying the progress of time from scene to scene
+
+![](pic11.png)
+
+The plastic models were used as the crowd in the wedding scene. 
+the one on the right was more dynamic in pose so it better represented its crowd while the other was more static and help represent its crowd
+
+![](pic12.png)
+
+The green screen was essential in making the entire performance come to life
