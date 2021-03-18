@@ -2,6 +2,7 @@
 
 ### Songs Purposed
 1. Up: Married Life
+The video can be viewed here https://drive.google.com/file/d/1aPwzHhsj_tV0EDmFdqWH8rqdy99nhomX/view?usp=sharing
 
 #### Charecters
 
@@ -95,7 +96,7 @@ The other charecter was similarly made but lacking in electronics
 
 ### Video Link
 
-The video can be warched here https://drive.google.com/file/d/1aPwzHhsj_tV0EDmFdqWH8rqdy99nhomX/view?usp=sharing
+The video can be viewed here https://drive.google.com/file/d/1aPwzHhsj_tV0EDmFdqWH8rqdy99nhomX/view?usp=sharing
 
 #### Problems and challenges
 The main challenge was time mamagement the coding, recording and editing of the performence was time consuming 
